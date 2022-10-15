@@ -24,7 +24,7 @@ Paper](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.01
 
 The report containing details about the implementation of the model is
 here:
-[Report](https://sandra-nguemto.rstudio.cloud/594f4158da6e4ac18796655f49c25718/file_show?path=%2Fcloud%2Fproject%2FDoc%2FReport.pdf)
+[Report](https://github.com/sandra-nguemto/stock-index-forecasting/blob/main/Doc/Report.pdf)
 
 The slides for the in class presentation of the project are here:
 [Slides](https://sandra-nguemto.rstudio.cloud/594f4158da6e4ac18796655f49c25718/file_show?path=%2Fcloud%2Fproject%2FStock+Index+Simulation+using+a+Back+Propagation+Neural+Network+Algorithm..pdf)
