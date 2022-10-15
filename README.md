@@ -22,9 +22,6 @@ will be using as the primary source for our work: (**See paper for a
 torough explanation of the model**) [Base
 Paper](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0192366&type=printable)
 
-It is also available in this repository : [Base Paper
-Repo](https://sandra-nguemto.rstudio.cloud/594f4158da6e4ac18796655f49c25718/file_show?path=%2Fcloud%2Fproject%2FDoc%2Fbase_paper.pdf)
-
 The report containing details about the implementation of the model is
 here:
 [Report](https://sandra-nguemto.rstudio.cloud/594f4158da6e4ac18796655f49c25718/file_show?path=%2Fcloud%2Fproject%2FDoc%2FReport.pdf)
