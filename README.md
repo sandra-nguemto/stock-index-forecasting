@@ -22,6 +22,8 @@ will be using as the primary source for our work: (**See paper for a
 torough explanation of the model**) [Base
 Paper](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0192366&type=printable)
 
+It is also available in this repository : [Base Paper Repo](https://github.com/sandra-nguemto/stock-index-forecasting/blob/main/Doc/base_paper.pdf)
+
 The report containing details about the implementation of the model is
 here:
 [Report](https://github.com/sandra-nguemto/stock-index-forecasting/blob/main/Doc/Report.pdf)
