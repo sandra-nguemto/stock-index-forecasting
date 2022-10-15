@@ -29,7 +29,7 @@ here:
 [Report](https://github.com/sandra-nguemto/stock-index-forecasting/blob/main/Doc/Report.pdf)
 
 The slides for the in class presentation of the project are here:
-[Slides](https://sandra-nguemto.rstudio.cloud/594f4158da6e4ac18796655f49c25718/file_show?path=%2Fcloud%2Fproject%2FStock+Index+Simulation+using+a+Back+Propagation+Neural+Network+Algorithm..pdf)
+[Slides](https://github.com/sandra-nguemto/stock-index-forecasting/blob/main/Stock%20Index%20Simulation%20using%20a%20Back%20Propagation%20Neural%20Network%20Algorithm..pdf)
 
 To implement the model we created a package called `FMpackage`. It
 contains 4 functions, namely:
